@@ -27,7 +27,7 @@
   "author": "Fabian 'fabiantheblind' Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
   "license": "MIT",
   "dependencies": {
-    "clipboardy": "^2.1.0",
+    "clipboardy": "^3.0.0",
     "commander": "^6.0.0",
     "turndown": "^7.0.0",
     "turndown-plugin-gfm": "^1.0.2"
